@@ -73,19 +73,7 @@ Current Focus:
 
 ---
 
-## 📂 Repository Structure
 
-```
-📦 DSA-Journey
- ┣ 📂 Arrays
- ┣ 📂 Strings
- ┣ 📂 Binary Search
- ┣ 📂 Linked List
- ┣ 📂 Trees
- ┣ 📂 Dynamic Programming
- ┣ 📂 Graphs
- ┗ 📜 README.md
-```
 
 ---
 
