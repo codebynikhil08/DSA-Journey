@@ -106,9 +106,14 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codebynikhil08/DSA-Journey/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/codebynikhil08/DSA-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
