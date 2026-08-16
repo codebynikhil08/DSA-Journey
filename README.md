@@ -100,3 +100,15 @@ This is a personal learning repository, but feedback, suggestions, and optimized
 If you find this repository useful, consider giving it a ⭐.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0136-single-number) |
+<!---LeetCode Topics End-->
