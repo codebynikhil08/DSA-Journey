@@ -107,6 +107,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codebynikhil08/DSA-Journey/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -120,4 +121,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
