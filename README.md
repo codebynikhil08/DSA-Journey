@@ -116,4 +116,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codebynikhil08/DSA-Journey/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
