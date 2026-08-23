@@ -114,6 +114,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codebynikhil08/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/codebynikhil08/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
