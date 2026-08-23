@@ -111,18 +111,22 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/codebynikhil08/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codebynikhil08/DSA-Journey/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +136,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,4 +145,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/codebynikhil08/DSA-Journey/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
