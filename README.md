@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/codebynikhil08/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/codebynikhil08/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
