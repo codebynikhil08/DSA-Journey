@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0485-max-consecutive-ones](https://github.com/codebynikhil08/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Happy Coding! 🚀
 | [0392-is-subsequence](https://github.com/codebynikhil08/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
