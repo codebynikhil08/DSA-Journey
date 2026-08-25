@@ -107,6 +107,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codebynikhil08/DSA-Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/codebynikhil08/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codebynikhil08/DSA-Journey/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/codebynikhil08/DSA-Journey/tree/master/0053-maximum-subarray) |
@@ -142,6 +143,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codebynikhil08/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codebynikhil08/DSA-Journey/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/codebynikhil08/DSA-Journey/tree/master/0075-sort-colors) |
@@ -206,4 +208,8 @@ Happy Coding! 🚀
 | [0344-reverse-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/codebynikhil08/DSA-Journey/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/codebynikhil08/DSA-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
