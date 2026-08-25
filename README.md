@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/codebynikhil08/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/codebynikhil08/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
@@ -186,4 +187,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/codebynikhil08/DSA-Journey/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
