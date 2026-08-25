@@ -148,6 +148,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/codebynikhil08/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/codebynikhil08/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
@@ -169,6 +170,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/codebynikhil08/DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/codebynikhil08/DSA-Journey/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,4 +197,5 @@ Happy Coding! 🚀
 | ------- |
 | [0125-valid-palindrome](https://github.com/codebynikhil08/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/codebynikhil08/DSA-Journey/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
