@@ -123,6 +123,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codebynikhil08/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/codebynikhil08/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
@@ -142,6 +143,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Happy Coding! 🚀
 | [0344-reverse-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/codebynikhil08/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
@@ -176,6 +179,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -195,6 +199,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codebynikhil08/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
