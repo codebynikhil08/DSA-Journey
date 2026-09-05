@@ -130,6 +130,7 @@ Happy Coding! 🚀
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/codebynikhil08/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Happy Coding! 🚀
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/codebynikhil08/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -244,4 +246,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/codebynikhil08/DSA-Journey/tree/master/0844-backspace-string-compare) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/codebynikhil08/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
