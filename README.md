@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0137-single-number-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codebynikhil08/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codebynikhil08/DSA-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/codebynikhil08/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
@@ -143,6 +144,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/codebynikhil08/DSA-Journey/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/codebynikhil08/DSA-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/codebynikhil08/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -181,6 +183,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/codebynikhil08/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/codebynikhil08/DSA-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/codebynikhil08/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
