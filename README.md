@@ -114,6 +114,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/codebynikhil08/DSA-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/codebynikhil08/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codebynikhil08/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -193,6 +194,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/codebynikhil08/DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/codebynikhil08/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/codebynikhil08/DSA-Journey/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
