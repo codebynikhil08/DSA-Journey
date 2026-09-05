@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/codebynikhil08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/codebynikhil08/DSA-Journey/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/codebynikhil08/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/codebynikhil08/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -250,4 +251,8 @@ Happy Coding! 🚀
 | ------- |
 | [0844-backspace-string-compare](https://github.com/codebynikhil08/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codebynikhil08/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/codebynikhil08/DSA-Journey/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
