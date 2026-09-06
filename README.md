@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0137-single-number-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codebynikhil08/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codebynikhil08/DSA-Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codebynikhil08/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/codebynikhil08/DSA-Journey/tree/master/0260-single-number-iii) |
@@ -155,6 +156,7 @@ Happy Coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/codebynikhil08/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codebynikhil08/DSA-Journey/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -167,6 +169,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/codebynikhil08/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codebynikhil08/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/codebynikhil08/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codebynikhil08/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codebynikhil08/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
