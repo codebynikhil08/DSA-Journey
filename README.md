@@ -258,4 +258,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/codebynikhil08/DSA-Journey/tree/master/0724-find-pivot-index) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/codebynikhil08/DSA-Journey/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
